@@ -17,7 +17,7 @@ Este projeto é uma aplicação Django criada para demonstrar o uso de Managers 
 1. **Clone o repositório**:
     ```sh
     git clone https://github.com/flaviomouracarvalho/djangomanager.git
-    cd projeto-django-exemplo
+    cd djangomanager
     ```
 
 2. **Crie e ative um ambiente virtual**:
